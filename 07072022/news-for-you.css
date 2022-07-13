@@ -1,0 +1,56 @@
+.body {
+    margin: 0;
+}
+
+.news-for-you-parent {
+    width: 100%;
+    max-width: 1240px;
+    margin: 0 auto;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: midnightblue;
+
+}
+
+.news-for-you-header {
+    max-width: 200px;
+}
+
+.news-for-you-top-right {
+    max-width: 200px;
+    }
+
+.news-for-you-div {
+   max-width: 1240px;
+    display: flex;
+    align-items: center;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: midnightblue;
+
+}
+
+.news-for-you-image {
+   max-width: 500px;
+}
+
+.news-for-you-main-image {
+    width: 100%;
+    max-width: 500px;
+}
+
+.news-for-you-text {
+   max-width: 740px;margin: 0px 15px;
+}
+
+.news-for-you-bottom-div {
+    font-size: 15px;
+    margin: 143px 0px -159px 10px;
+    padding: 10px 0px;
+    border-top: 1px solid grey;
+   
+}
+
+.news-for-you-bottom-text {
+    margin-right: 64px;
+}

@@ -1,0 +1,54 @@
+.body {
+    margin: 0px;
+}
+
+.latest-news-parent {
+    margin: 0px auto;
+    width: 100%;
+    max-width: 1240px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.latest-news-heading-parent {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.latest-news-heading {
+    margin-right: 620px;
+}
+
+.latest-news-heading-font-color {
+    color: midnightblue;
+}
+
+.latest-news-input {
+    margin-left: 309px;
+    margin-top: 25px;
+}
+
+.latest-news-video {
+    max-width: 400px;
+}
+
+.latest-news-main-video {
+    max-width: 600px;
+}
+
+.latest-news-text-parent {
+    padding: 0px 20px;
+}
+
+.latest-news-heading-text {
+    padding-bottom: 35px;
+}
+
+.latest-news-bottom-parent {
+    border-top: 1px solid grey;
+    padding: 10px;
+}
+
+.latest-news-bottom-icon {
+    padding-right: 15px;
+}

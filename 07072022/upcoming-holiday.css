@@ -1,0 +1,50 @@
+.body {
+    margin: 0;
+}
+
+.upcoming-holiday-parent {
+    display: flex;
+    width: 100%;
+    max-width: 1240px;
+    margin: 0px auto;
+
+}
+
+.upcoming-holiday-image {
+    max-width: 300px;
+}
+
+.upcoming-holiday-main-image {
+    max-width: 300px;
+}
+
+.upcoming-holiday-parent-text {
+    padding-top: 50px;
+    font-family: sans-serif;
+    margin-left: 20px;
+}
+
+.upcoming-holiday-heading-text {}
+
+.upcoming-holiday-text-color {
+    color: midnightblue;
+}
+
+.upcoming-holiday-view-heading-arrow {
+
+    color: white;
+    padding: 0px 2px;
+    border-radius: 100%;
+    margin-left: 15px;
+}
+
+.upcoming-holiday-bottom-text-section {
+    border-top: 1px solid grey;
+    padding: 8px;
+}
+
+.upcoming-holiday-bottom-text-icon {}
+
+.upcoming-holiday-bottom-text-icon-image {
+    width: 27;
+}

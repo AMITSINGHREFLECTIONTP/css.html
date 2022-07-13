@@ -58,7 +58,7 @@
 }
 
 .header-bottom-margin {
-    margin-bottom: 25px;
+    
 }
 
 .logo {
@@ -97,7 +97,7 @@
 }
 
 .navigation {
-    display: flex;
+    display: flex;margin: 40px 0px;
 }
 
 .first-image {
@@ -188,6 +188,160 @@
 
 
 
+.upcoming-holiday-parent {
+    display: flex;
+    width: 100%;
+    max-width: 858px;
+    margin: 0px auto;
+
+}
+
+.upcoming-holiday-image {
+    max-width: 300px;
+}
+
+.upcoming-holiday-main-image {
+    max-width: 300px;
+}
+
+.upcoming-holiday-parent-text {box-shadow: grey 16px 12px 15px -16px;
+    padding-top: 50px;
+    font-family: sans-serif;
+    margin-left: 20px;
+}
+
+.upcoming-holiday-heading-text {margin-right: 122px;}
+
+.upcoming-holiday-text-color {
+    color: midnightblue;
+}
+
+.upcoming-holiday-view-heading-arrow {
+
+    color: white;
+    padding: 0px 2px;
+    border-radius: 100%;
+    margin-left: 15px;
+}
+
+.upcoming-holiday-bottom-text-section {
+    border-top: 1px solid grey;margin-right: 15px;
+    padding: 8px;
+}
+
+.upcoming-holiday-bottom-text-icon {margin-right: 30px;}
+
+.upcoming-holiday-bottom-text-icon-image {
+    width: 27;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.latest-news-parent {
+    
+    width: 100%;
+    max-width: 860px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.latest-news-heading-parent {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.latest-news-heading {
+    margin-right: 249px;
+}
+
+.latest-news-heading-font-color {
+    color: midnightblue;
+}
+
+.latest-news-input {
+    margin-left: 300px;
+    margin-top: 25px;
+}
+
+.latest-news-video {
+    max-width: 400px;
+}
+
+.latest-news-main-video {
+    max-width: 600px;
+}
+
+.latest-news-text-parent {    box-shadow: grey 8px 17px 35px -22px;
+    padding: 0px 20px;
+}
+
+.latest-news-heading-text {
+    padding-bottom: 35px;
+}
+
+.latest-news-bottom-parent {
+    border-top: 1px solid grey;
+    padding: 10px;
+}
+
+.latest-news-bottom-icon {
+    padding-right: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 .learn-more-page-parent{text-align: center;margin: 20px 0px 40px 0px;}
@@ -196,8 +350,8 @@
 .banner {
 
     width: 100%;
-    max-width: 1240px;
-    margin: 0px auto;
+    max-width: 861px;
+    margin: 0px ;
 }
 
 .banner-image {
@@ -209,7 +363,7 @@
 .div-text {
     width: 50%;
     position: absolute;
-    margin: -325px 57px;
+    margin: -325px 30px;
     max-width: 400px;
 }
 
@@ -226,7 +380,7 @@
     border-radius: 40px;
     margin:23px 229px 0px 0px;
     text-align: center;
-    padding: 14px 34px 14px;
+    padding: 7px 34px 7px;
 }
 
 .learn-more-arrow {
@@ -237,12 +391,212 @@
 .image-pics {
     width: 41%;
     position: absolute;
-    margin: -308px 0px 0px 384px;
+    margin: -288px 0px 0px 384px;
 }
 
 .position-img {
-    width: 465px;
+    width: 425px;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.news-for-you-parent {
+    width: 100%;
+    max-width: 880px;
+    margin: 20px 0px 0px;
+    
+
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: midnightblue;
+
+}
+
+.news-for-you-header {
+    max-width: 200px;position: relative;
+}
+
+.news-for-you-top-right {
+    max-width: 200px;    padding: 12px 0px 0px 527px;position: absolute;font-size: 17px;
+
+    }
+
+.news-for-you-div {
+   max-width: 1240px;
+    display: flex;
+    align-items: center;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: midnightblue;
+
+}
+
+.news-for-you-image {
+   max-width: 500px;
+}
+
+.news-for-you-main-image {
+    width: 100%;
+    max-width: 280px;
+}
+
+.news-for-you-text {
+    max-width: 740px;
+    margin: 0px 15px;
+    box-shadow: grey 8px 17px 35px -22px;
+    padding: 0px 88px 0px 0px;
+
+}
+.news-for-you-smaller-font{font-size: 1px;color: grey;margin: 14px 0px;}
+
+.news-for-you-bottom-div {
+    font-size: 15px;
+    
+    margin: 58px -70px -45px 10px;
+    padding: 10px 0px;
+    border-top: 1px solid grey;
+   
+}
+
+.news-for-you-bottom-text {
+    margin-right: 48px;
+}
+.mario{height: 94px;}
+
+
+
+
+
+
+
+
+
+
+
+
+.ford-dealer-parent {
+    display: flex;
+    margin-top: 50px;
+    max-width: 1240px;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: midnightblue;
+
+}
+
+.ford-dealer-image {
+    margin: 0 15px;
+    max-width: px;
+    width: 100%;
+    
+}
+
+.ford-dealer-inner-image {
+   
+}
+.ford-dealer-image-child{    margin: 0px 5px 0px -13px;    box-shadow: 0px 4px 10px 1px grey;border-radius: 5px;
+}
+
+
+.ford-dealer-main-image {
+    max-width: 400px;
+    width: 100%;margin-bottom: 20px;    
+
+}
+
+.ford-dealer-inner-text {
+    margin-left:20px;
+    font-weight: bold;
+    font-size: 17px;
+
+   
+}
+.ford-dealer-inner-text-smaller{ color: grey;
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 1;
+}
+.two-three{padding-top: 21px;}
+
+.ford-dealer-bottom-icon {
+    margin: 50px 22px 0px 22px;
+    border-top: 1px solid grey;
+    padding: 10px 0px;
+    
+}
+.ford-dealer-bottom-icon-comment{margin: 0px 8px ;}
+.ford-dealer-bottom-icon-share{margin-left: 26px  ;}
+.ford-dealer-bottom-icon-iamge{max-width: 42px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
