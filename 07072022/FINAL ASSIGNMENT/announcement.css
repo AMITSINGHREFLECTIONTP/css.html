@@ -1,0 +1,70 @@
+body {
+    margin: 0px;
+}
+
+.announcement-parent {
+    max-width: 1240px;
+    margin: 0 auto;
+    background-color: orange;
+}
+
+.announcement-child {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.announcement-heading {
+    font-weight: bold;
+    color: midnightblue;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.announcement-ford-parent {
+    display: flex;
+}
+
+.announcement-ford-div-one {
+    background-color: midnightblue;
+    color: white;
+    margin-right: 20px;
+    max-width: 600px;
+    display: flex
+}
+
+.announcement-ford-logo {
+    border: 3px solid;
+    color: white;
+    border-radius: 50%;
+    padding: 15px 35px;
+    margin: 20px 40px 20px 10px;
+}
+
+.announcement-ford-div-one-text {
+    margin: 20px 0px 20px 0px;
+}
+
+.announcement-ford-div-second {
+    background-color: midnightblue;
+    color: white;
+    margin-left: 10px;
+    max-width: 600px;
+    display: flex;
+}
+
+.announcement-ford-div-second-image {}
+
+.announcement-main-image {
+    max-width: 10px;
+    max-width: 105px;
+}
+
+.announcemen-for-div-second-text {
+    margin: 20px 20px 20px 30px;
+}
+
+.announcement-ford-div-second-text-arrow {
+    background-color: white;
+    color: midnightblue;
+    padding: 0px 1px;
+    border-radius: 100%;
+}

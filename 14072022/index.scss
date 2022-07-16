@@ -1,0 +1,23 @@
+$color: red;
+$backgroundcolor: green;
+$textalign: center;
+$border: 2px solid;
+$colors: purple;
+$width:100%;
+
+.amit {
+    color: $color;
+    background-color: $backgroundcolor;
+}
+
+.jay {color: $color;
+    background-color: $backgroundcolor;
+    text-align: $textalign;width: $width;
+}
+
+.kritesh {border:$border;
+}
+
+.guru {border:$border;
+    color:$colors;
+}

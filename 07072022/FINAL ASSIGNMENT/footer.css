@@ -1,0 +1,10 @@
+.footer-parent{width: 100%;font-family: Arial, Helvetica, sans-serif;}
+.footer-parent-child{max-width: 1240px;margin: 0 auto;}
+.footer-text-parent{font-weight: bold;display: flex;background-color:#eee;color: midnightblue;}
+.footer-text-bottom-parent{background-color:midnightblue;color: white;padding: 10px;}
+.footer-bottom-text-section{}
+.footer-bottom-heading{font-size: 19px;margin-bottom: 10px;}
+.footr-bottom-middle-ul{margin-top: 49px;}
+.footer-bottom-chid{padding-bottom: 3px;font-size: 14px;}
+.footer-bottom-text-section-one{margin-right: 100px;}
+.footer-bottom-text{}
